@@ -1,9 +1,13 @@
 
 # Assignment 1
 
+## Problems
+
 ![Cap 1](https://github.com/jasminecronin/data-structures-algorithms/blob/master/Assignments/Assignment%201/assignment1-1.png)
 
 ![Cap 2](https://github.com/jasminecronin/data-structures-algorithms/blob/master/Assignments/Assignment%201/assignment1-2.png)
+
+## Solutions
 
 ![Cap 3](https://github.com/jasminecronin/data-structures-algorithms/blob/master/Assignments/Assignment%201/solution1.png)
 
