@@ -1,7 +1,7 @@
 /*
  * MazeVisualizer.java
  *
- * For CPSC 331, S2018
+ * For Data Structures, S2018
  *
  * @author Usman Alim
  */
