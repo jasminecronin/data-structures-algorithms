@@ -1,5 +1,5 @@
 
-# Data Structures, Algorithms, and Their Analysis
+# Exercise 2
 
-Work done for a data structures course for the University of Calgary.
+![Cap 1](https://github.com/jasminecronin/data-structures-algorithms/blob/master/Exercises/Exercise%202/exercise2.png)
 
