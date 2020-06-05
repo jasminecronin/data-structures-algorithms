@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Random;
 
 /**
- * CPSC 331, Spring 2018
+ * Data Structures, Spring 2018
  *
  * Quicksort code adapted from:
  * Data Structures and Algorithms in Java, by Adam Drozdek
