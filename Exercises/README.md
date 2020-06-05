@@ -1,5 +1,5 @@
 
-# Data Structures, Algorithms, and Their Analysis
+# Exercises
 
-Work done for a data structures course for the University of Calgary.
+Shorter empirical studies conducted in a lab setting.
 
